@@ -1,0 +1,13 @@
+.BigButt {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.LilButt {
+    background-color: rgb(255, 238, 0);
+}
+
+.BigButt, .LilButt {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
